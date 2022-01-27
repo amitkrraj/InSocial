@@ -1,2 +1,2 @@
 # social-media-chatting-app
-A Social Media Chatting web app like Facebook
+A Social Media Chatting web app like instagram
